@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>docs on 666lab</title>
+    <link>http://localhost:1313/article/</link>
+    <description>Recent content in docs on 666lab</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2025 12:19:30 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. article</title>
+      <link>http://localhost:1313/article/1_article/</link>
+      <pubDate>Wed, 15 Jan 2025 12:19:30 +0900</pubDate>
+      <guid>http://localhost:1313/article/1_article/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;head1&#34;&gt;head1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;head2&#34;&gt;head2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;haed3&#34;&gt;haed3&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;contents1&lt;/li&gt;&#xA;&lt;li&gt;contents2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>2. article</title>
+      <link>http://localhost:1313/article/2_article/</link>
+      <pubDate>Wed, 15 Jan 2025 12:19:30 +0900</pubDate>
+      <guid>http://localhost:1313/article/2_article/</guid>
+      <description>&lt;h2 id=&#34;test&#34;&gt;test&lt;/h2&gt;&#xA;&lt;h1 id=&#34;head1&#34;&gt;head1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;head2&#34;&gt;head2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;haed3&#34;&gt;haed3&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;contents1&lt;/li&gt;&#xA;&lt;li&gt;contents2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+  </channel>
+</rss>
