@@ -2,4 +2,5 @@
 title: content
 ---
 
-## Thanks for visiting our team blog!
+# 666lab 팀 블로그
+

@@ -6,6 +6,21 @@
     <description>Recent content in Categories on 666lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 15 Feb 2025 18:05:40 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>666daeva</title>
+      <link>http://localhost:1313/categories/666daeva/</link>
+      <pubDate>Sat, 15 Feb 2025 18:05:40 +0900</pubDate>
+      <guid>http://localhost:1313/categories/666daeva/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nextjs</title>
+      <link>http://localhost:1313/categories/nextjs/</link>
+      <pubDate>Sat, 15 Feb 2025 18:05:40 +0900</pubDate>
+      <guid>http://localhost:1313/categories/nextjs/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

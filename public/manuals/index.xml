@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>manuals on 666lab</title>
+    <link>http://localhost:1313/manuals/</link>
+    <description>Recent content in manuals on 666lab</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2025 12:19:30 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/manuals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>팀 블로그에 글 작성하는 방법</title>
+      <link>http://localhost:1313/manuals/manuals-1/</link>
+      <pubDate>Wed, 15 Jan 2025 12:19:30 +0900</pubDate>
+      <guid>http://localhost:1313/manuals/manuals-1/</guid>
+      <description>&lt;h3 id=&#34;블로그-구조&#34;&gt;블로그 구조&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;레포지토리 &lt;a href=&#34;https://github.com/666Lab/blog.git&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;https://github.com/666Lab/blog.git&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://666lab.github.io/blog&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;https://666lab.github.io/blog&lt;/a&gt; 도메인으로 접속 가능&lt;/li&gt;&#xA;&lt;li&gt;hugo와 digitalgarden 테마를 커스터마이징해서 사용 중&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;contents-추가-방법&#34;&gt;Contents 추가 방법&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;명령어로 추가하기&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#6272a4&#34;&gt;# post 추가 시&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo new content manuals/mannuals-1.md&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#6272a4&#34;&gt;# project 추가 시&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo new content project/pluto.md&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;- 수동으로 content/post, content/project 경로에 md 파일 추가 후 아래 내용을 파일 상단에 입력&#xA;```&#xA;    +++&#xA;    title = &#39;tile&#39;&#xA;    date = 2025-01-16&#xA;    +++&#xA;```&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;마크다운으로 내용 작성 (이미지 첨부 필요 시 images 경로에 위치)&lt;/li&gt;&#xA;&lt;li&gt;local 검증 후 main 브런치에 push&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#6272a4&#34;&gt;# test&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo server&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#6272a4&#34;&gt;# push&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git add .&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git commit -m &lt;span style=&#34;color:#f1fa8c&#34;&gt;&amp;#34;commit message&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git push origin main&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

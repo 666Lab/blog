@@ -9,11 +9,11 @@
     <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pluto</title>
+      <title>프로젝트 플루토</title>
       <link>http://localhost:1313/project/pluto/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/pluto/</guid>
-      <description>&lt;h1 id=&#34;project-pluto&#34;&gt;Project Pluto&lt;/h1&gt;</description>
+      <description>&lt;h3 id=&#34;목표&#34;&gt;목표&lt;/h3&gt;&#xA;&lt;h3 id=&#34;ui&#34;&gt;UI&lt;/h3&gt;&#xA;&lt;p&gt;** 2025년 2월 기준&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/project/pluto/project-pluto-1.png&#34; alt=&#34;pluto-ui&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;기능&#34;&gt;기능&lt;/h3&gt;</description>
     </item>
   </channel>
 </rss>

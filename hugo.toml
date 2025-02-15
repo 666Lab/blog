@@ -3,10 +3,15 @@ languageCode = 'en-us'
 title = '666lab'
 theme = 'digitalgarden'
 
+
 [Params]
-  description = "My Digital Garden on the Internet"
-  images = ['/digital-garden-logo.png']
+  description = "666lab 팀 블로그"
+  images = ['/images/666lab.png']
   enableSearch = true
+
+#[Params.youtubeplayer]
+  #title = "Youtube"
+  # description = "Play youtube videos"
 
 [menu]
 [[menu.main]]
@@ -18,29 +23,37 @@ theme = 'digitalgarden'
   params.header = true
   weight = 2
 [[menu.main]]
-  name = 'Post'
-  url = '/post'
+  name = '매뉴얼'
+  url = '/manuals'
   weight = 3
 [[menu.main]]
-  name = 'Project'
-  url = '/project'
+  name = '포스팅'
+  url = '/posting'
   weight = 4
+[[menu.main]]
+  name = '666daeva 포스팅'
+  url = '/666daeva'
+  weight = 4
+[[menu.main]]
+  name = '팀 프로젝트'
+  url = '/project'
+  weight = 5
 [[menu.main]]
   name = 'Links'
   params.header = true
-  weight = 5
+  weight = 6
 [[menu.main]]
   name = 'Proxmox'
   url = 'https://pve.666lab.org'
-  weight = 5
+  weight = 7
 [[menu.main]]
   name = 'Projects'
   params.header = true
-  weight = 7
+  weight = 8
 [[menu.main]]
   name = 'Pluto'
   url = 'https://pluto.666lab.org'
-  weight = 8
+  weight = 9
 
 [[menu.social]]
   name = 'GitHub'
